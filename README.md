@@ -1,4 +1,4 @@
-# Filmes do Momento
+# Filmes do Momento 🎥
 
 Site consumindo a API TMDB para visualizar os últimos lançamentos e suas respectivas notas.
 
@@ -11,7 +11,7 @@ Site consumindo a API TMDB para visualizar os últimos lançamentos e suas respe
 #### Link para o Site 🎯
 
 <div>
-    <a href="https://freelando-tau.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+    <a href="https://filmes-do-momento.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
 #### ⬇️Pode me chamar no⬇️
